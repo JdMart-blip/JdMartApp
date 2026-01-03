@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jdmart.shop",
+      "sha256_cert_fingerprints": [
+        "FB:2E:23:C3:18:01:5B:4D:B8:8F:E5:A7:6B:47:2D:D5:9F:26:82:87:DE:1F:94:EE:6B:32:E3:24:03:D2:E9:02"
+      ]
+    }
+  }
+]
